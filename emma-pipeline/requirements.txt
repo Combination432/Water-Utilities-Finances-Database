@@ -1,0 +1,27 @@
+# EMMA Pipeline Requirements
+# All packages are free and open-source
+
+# Core HTTP client
+requests>=2.31.0
+
+# HTML parsing (optional - only if EMMA requires HTML scraping)
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# PDF processing (for later stages)
+# Uncomment when ready to parse PDFs:
+# pdfplumber>=0.10.0
+# PyPDF2>=3.0.0
+
+# Database (optional - only if connecting to PostgreSQL)
+# Uncomment when ready to store data:
+# psycopg2-binary>=2.9.9
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Date/time utilities (built-in, but listed for reference)
+# datetime - included in Python standard library
+
+# Development/Testing
+pytest>=7.4.0  # For unit tests
