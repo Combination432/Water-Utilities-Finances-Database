@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: water-utilities-db
+    environment:
+      POSTGRES_DB: water_utilities
+      POSTGRES_USER: water_user
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-changeme}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U water_user -d water_utilities"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - water-utilities-network
+
+  # Backend API
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: water-utilities-api
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: water_utilities
+      DB_USER: water_user
+      DB_PASSWORD: ${DB_PASSWORD:-changeme}
+      DATA_DIR: /app/data
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - water-utilities-network
+    restart: unless-stopped
+
+  # Frontend (Optional - for serving static files)
+  # Uncomment if you want to serve frontend from Docker
+  # frontend:
+  #   image: nginx:alpine
+  #   container_name: water-utilities-frontend
+  #   volumes:
+  #     - ./frontend/dist:/usr/share/nginx/html
+  #     - ./nginx.conf:/etc/nginx/conf.d/default.conf
+  #   ports:
+  #     - "3000:80"
+  #   depends_on:
+  #     - api
+  #   networks:
+  #     - water-utilities-network
+  #   restart: unless-stopped
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  water-utilities-network:
+    driver: bridge
