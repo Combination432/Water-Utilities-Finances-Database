@@ -1,0 +1,101 @@
+utility_id,name,state_code,utility_type,population_served,connections,year_established,website_url
+293ab392-ac45-4c8d-8f7c-a5c93ee0ae35,City IL Water and Sewer Department,IL,municipal,94271,31884,1940,https://www.ilwater1.gov
+6d9c14db-da03-4b1a-94ba-6758104082d1,Greater PA Water Company,PA,municipal,254257,76138,1982,https://www.pawater2.gov
+2372bfa6-af8d-41ad-b375-3bc957db48a7,Metro OK Regional Water Authority,OK,special_district,946398,310442,1933,https://www.okwater3.gov
+7d68dc68-d86c-4267-b04a-050115e10b98,Metro GA Water System,GA,special_district,420708,143585,1967,https://www.gawater4.gov
+439fe16c-264f-4c3e-8eb7-1be94a00570b,Central PA Water Department,PA,municipal,99179,27619,1943,https://www.pawater5.gov
+bb67f714-8c8b-441d-a28f-29340d31fadd,Metro UT Water and Power Department,UT,regional,380837,130970,1956,https://www.utwater6.gov
+6bc45aa7-89e1-4682-b46f-8b26248448ed,Central FL Water Resources Authority,FL,municipal,111823,34406,1980,https://www.flwater7.gov
+389dd188-446a-4e9a-af32-0d0495062e6f,South IL Water Commission,IL,municipal,26178,7295,1978,https://www.ilwater8.gov
+c2e1600d-08ed-427f-8825-b585cf20c56b,South CO Metropolitan Water District,CO,regional,67592,17151,1945,https://www.cowater9.gov
+c00ef239-4c05-4f6b-85e3-3cbe3efc283f,North MO County Water District,MO,municipal,948029,281462,1962,https://www.mowater10.gov
+1779ca3d-e65c-4536-9d56-a6bc13375652,West WA Regional Water Authority,WA,municipal,1698,487,1994,https://www.wawater11.gov
+47216d08-a540-4ce2-bcc5-f9da40c26f71,Regional UT Public Utilities Commission,UT,special_district,2994667,950792,1964,https://www.utwater12.gov
+88e7d523-b202-4076-9494-a422c7421a3c,North TN Metropolitan Water District,TN,special_district,104939,27949,1971,https://www.tnwater13.gov
+e90fcc91-88e2-47b9-80d5-9e5d540cb22c,South NY Municipal Water Works,NY,municipal,241272,77052,1961,https://www.nywater14.gov
+55bc50cc-5661-47ee-98a7-731cf6713484,Central AL Water and Power Department,AL,municipal,355784,106601,1977,https://www.alwater15.gov
+34735680-0ad7-4c7b-927e-09ef4136d825,North MO Municipal Water District,MO,municipal,585209,200985,1995,https://www.mowater16.gov
+823fed2b-302f-48bc-84da-f978121a92d7,Central SC Water and Power Department,SC,municipal,555870,187114,1924,https://www.scwater17.gov
+9c0e980d-a161-4c88-b1d5-0b66fd904fbb,South FL Water Management District,FL,regional,106964,28068,1935,https://www.flwater18.gov
+fe8300d4-445e-4cee-8f97-5b77bcadc1a7,County CO Municipal Water District,CO,municipal,153844,53328,1994,https://www.cowater19.gov
+b9fe26d4-e8da-4a6b-b2dd-9c3a89ef12f5,Central TX Municipal Utility District,TX,special_district,3107853,825873,1989,https://www.txwater20.gov
+f9ca4351-66fc-4f3e-9d02-9e5b85532426,Central WI Metropolitan Water District,WI,municipal,54301,15785,1929,https://www.wiwater21.gov
+5900ba7f-05b6-4f39-a770-e06b3975a3c1,West MD Water and Power Department,MD,regional,8633,2510,1977,https://www.mdwater22.gov
+784c2a9f-ce07-470e-92dc-2956d20b8f1f,East IN Metropolitan Water District,IN,municipal,24135,8409,1941,https://www.inwater23.gov
+62d4db5b-e1e3-4272-91a8-936ad85ee6e8,South TX Water Corporation,TX,municipal,631050,181056,1992,https://www.txwater24.gov
+59448f05-37b9-4b8d-bf61-c1e14a7d8cbe,Municipal NY Water and Sewer Commission,NY,special_district,562568,151116,1934,https://www.nywater25.gov
+55988f8f-a099-44a2-8047-d8a8a2e05cf0,City GA Water System,GA,municipal,17616,6066,1936,https://www.gawater26.gov
+d22ec3fb-798c-4edb-b6cb-effc3e392af0,Greater VA County Water District,VA,regional,86383,23420,1944,https://www.vawater27.gov
+6702a54e-289f-4b19-9313-a33f250a375e,South VA Water and Power Department,VA,municipal,148395,45782,1934,https://www.vawater28.gov
+46d13fb4-db03-49de-9297-4d12d25f42c1,Municipal IN Municipal Water District,IN,special_district,23451,7545,1968,https://www.inwater29.gov
+2bab7428-0d69-4b0d-9869-f052b9b64a54,Metro CT Municipal Water District,CT,special_district,3212914,1085585,1921,https://www.ctwater30.gov
+a4f9f5e4-e51e-4aff-a319-24449bb84b23,Central AZ Water and Power Department,AZ,municipal,238265,72184,1934,https://www.azwater31.gov
+ac08d439-2059-488d-b368-38ec53849ca6,Greater TN Municipal Water District,TN,municipal,3427761,1040951,1986,https://www.tnwater32.gov
+5e085645-4ff9-424e-a341-a55ef9db60a6,City AL Regional Water Authority,AL,special_district,149337,37368,1972,https://www.alwater33.gov
+71778662-3f54-4f21-a385-09951b146919,North MO Water and Power Department,MO,special_district,46356,15560,1948,https://www.mowater34.gov
+c52d75f3-b282-4f3c-ae46-6d05e1246b17,East OR Regional Water Authority,OR,municipal,102737,27756,1987,https://www.orwater35.gov
+6c25d182-521c-4a02-83ea-49e72a0e4e6d,Suburban IL Water District,IL,municipal,46414,13386,1920,https://www.ilwater36.gov
+67ed5be2-96ac-4611-90db-3766e473165a,South MD County Water District,MD,municipal,102956,26497,1979,https://www.mdwater37.gov
+86e1dca9-3b8b-48ff-8e18-b848f603cef7,Greater MN Water and Power Department,MN,special_district,87908,22396,1939,https://www.mnwater38.gov
+7481044f-c7df-47db-a2dd-fad3d64ee3bc,East CT County Water District,CT,regional,76135,24867,1923,https://www.ctwater39.gov
+7672e195-5c05-46af-a045-03262bbe8cde,South MO Public Utilities Commission,MO,municipal,22935,7717,1953,https://www.mowater40.gov
+bd7369f7-8a8d-4a5c-988f-2fb935e1ff12,Suburban TX Water Utility,TX,regional,29877,10417,1943,https://www.txwater41.gov
+f8999068-5249-41c2-8219-166a33c6a322,Suburban VA County Water District,VA,municipal,214504,69119,1971,https://www.vawater42.gov
+617010d3-0dcd-4131-9d26-6bc1f8f82090,Central MA Regional Water Authority,MA,regional,200020,61685,1990,https://www.mawater43.gov
+247fdd5f-698b-4f2e-a053-2925b9151ddc,Greater AZ Regional Water Authority,AZ,special_district,72285,23847,1958,https://www.azwater44.gov
+17d6593e-6957-4d23-a9c0-ead3e3f2ed4a,Metro WA Water and Power Department,WA,municipal,124427,38325,1992,https://www.wawater45.gov
+cc268a73-aa15-4633-8b05-cd5bbeac5101,East OK Water and Power Department,OK,municipal,79322,21570,1981,https://www.okwater46.gov
+5a2c72c7-a36c-41ec-9151-deec4f950966,Metro MA Water and Power Department,MA,regional,73409,24855,1962,https://www.mawater47.gov
+06c25fd6-6462-4a0c-8bdc-e46644ee72e1,West MN County Water District,MN,special_district,8203,2291,1946,https://www.mnwater48.gov
+c14dadd4-e85b-4c41-9c17-0adad832290d,Suburban UT Regional Water Authority,UT,municipal,241856,83423,1989,https://www.utwater49.gov
+a4ccb584-9a55-490b-982d-647806cb3158,Metro NY Water Authority,NY,municipal,170761,47066,1956,https://www.nywater50.gov
+199a0a47-e0ad-4dbf-9cc2-b6e6253a5ae4,Greater CO County Water District,CO,municipal,201928,66691,1974,https://www.cowater51.gov
+c7aa5086-7341-4f5e-a347-afe98b6c6d7a,Regional TX Water Corporation,TX,municipal,38652,11951,1927,https://www.txwater52.gov
+e92773e7-a836-4aec-8929-fa7739372461,Metro PA Water Company,PA,regional,524655,165792,1986,https://www.pawater53.gov
+0189a1b6-0f00-4f64-a4df-65c697a0dcf4,West NC Water and Sewer,NC,special_district,165532,46987,1985,https://www.ncwater54.gov
+e977137e-5f48-492f-a1d6-644a6892ef9e,South MN Public Utilities Commission,MN,special_district,73152,23833,1974,https://www.mnwater55.gov
+2dd5fb39-6c0d-41d7-800c-d088dd15c2e5,East OH Water Utility,OH,regional,845423,281037,1982,https://www.ohwater56.gov
+c59c3948-04fd-4196-a5bd-b52c7ac30209,East CO Municipal Water District,CO,municipal,78733,21816,1971,https://www.cowater57.gov
+b0c17650-6ded-4650-8893-4faf5a13628c,East CO Public Utilities Commission,CO,special_district,11074,3699,1972,https://www.cowater58.gov
+26297d72-d59e-42e5-a09f-1e28bf0b6024,County MN Municipal Water District,MN,regional,896184,307380,1964,https://www.mnwater59.gov
+f24163da-0c45-49a9-87de-94a4acea1f7e,South LA Water and Power Department,LA,municipal,2774065,964679,1962,https://www.lawater60.gov
+19bbe31e-d305-41c6-bcc5-5d68b2702b14,West TX Regional Water System,TX,municipal,170796,59201,1959,https://www.txwater61.gov
+572025b4-3920-4510-9d52-bcebea0d0d09,County MN Municipal Water District,MN,special_district,56079,18723,1951,https://www.mnwater62.gov
+c63a0bf0-18ac-45d1-bce5-69b10d06fe96,East MD County Water District,MD,municipal,9652,2632,1925,https://www.mdwater63.gov
+8761d9ea-9c99-498b-8790-efba2f03ac7c,West VA Regional Water Authority,VA,municipal,279794,77386,1942,https://www.vawater64.gov
+bb8fc860-290a-45ab-a1e9-4622eee7712a,Central CT Metropolitan Water District,CT,special_district,110951,37177,1941,https://www.ctwater65.gov
+61794ac7-ceb3-4ece-810c-6c41747ddbdd,Central PA Water Department,PA,special_district,441456,127111,1966,https://www.pawater66.gov
+bdea5b2c-7f2f-4d4c-8060-015818900c78,Municipal NC Public Water System,NC,regional,254305,79483,1924,https://www.ncwater67.gov
+d5112362-1982-4b35-8985-e3384fe2d604,Suburban VA Regional Water Authority,VA,regional,23819,7357,1966,https://www.vawater68.gov
+8a4eae5e-6e27-4e20-a456-2802f82a21b3,Central NJ Metropolitan Water District,NJ,municipal,906418,279687,1992,https://www.njwater69.gov
+8773da82-ed30-4195-ba9b-4de41b2494d4,South LA Municipal Water District,LA,special_district,64258,21407,1993,https://www.lawater70.gov
+5460f621-59a2-41c0-9de2-0418ef44be42,City MD Regional Water Authority,MD,regional,143259,41849,1984,https://www.mdwater71.gov
+e1a2d039-49a2-444e-8007-f96d16dad953,Greater CO Public Utilities Commission,CO,municipal,105798,26467,1965,https://www.cowater72.gov
+0578ce83-9ed2-43a4-a7c7-f4736caffc31,Municipal MA Municipal Water District,MA,regional,929233,264073,1992,https://www.mawater73.gov
+a4b95206-118d-4268-973f-193452edf1fe,Municipal OK Metropolitan Water District,OK,municipal,7453,2017,1975,https://www.okwater74.gov
+17c1909e-2ede-4c7d-9d1b-48a9a36f6aa5,Central VA Metropolitan Water District,VA,municipal,114022,30074,1940,https://www.vawater75.gov
+8890d040-962c-417b-b65f-0dbdb0773763,South NC Water Resources,NC,special_district,30337,9821,1960,https://www.ncwater76.gov
+e547a8dc-f74a-4606-9ddd-a282b146484d,East MA County Water District,MA,regional,3082271,1036350,1931,https://www.mawater77.gov
+39db3b25-a915-44c1-960f-e1e954effe7c,Central NJ Metropolitan Water District,NJ,special_district,57306,14625,1929,https://www.njwater78.gov
+d8464df2-587d-4014-8ffc-f6e190380336,West CT Water and Power Department,CT,regional,3959230,1150163,1997,https://www.ctwater79.gov
+68776e6e-6ab5-4de3-a165-0328cb507952,Metro CO County Water District,CO,municipal,193163,53327,1977,https://www.cowater80.gov
+8afbbda6-38a0-42cf-a4ec-a30245ccf8df,Metro MN Water and Power Department,MN,municipal,617672,167326,1952,https://www.mnwater81.gov
+2b46cc7a-d707-4372-a56d-05fc99413f11,Metro MI Water and Sewerage,MI,special_district,20261,5235,1977,https://www.miwater82.gov
+3b5ecdca-afff-4d45-9ef8-46ab28da016e,West NY Water Authority,NY,municipal,2180024,687041,1948,https://www.nywater83.gov
+bd6a1095-7520-4bc8-838d-dadf0ded5a50,Central FL Water Management District,FL,regional,264283,83821,1941,https://www.flwater84.gov
+a4e66164-ee7b-48dd-ab87-2f63e2ead55d,Greater WI Metropolitan Water District,WI,regional,1612191,428107,1985,https://www.wiwater85.gov
+3fefa59e-d6aa-4d4a-b4b5-63166845c5cf,County NJ Regional Water Authority,NJ,municipal,65719,21881,1932,https://www.njwater86.gov
+54c2fbf3-0b37-4088-8489-474bb2be1039,Municipal MN Water and Power Department,MN,special_district,292724,92417,1924,https://www.mnwater87.gov
+65720ce2-5dfe-4128-b074-61d53cc309d4,West CT County Water District,CT,regional,34029,9290,1968,https://www.ctwater88.gov
+8142614c-98b5-4b0b-9435-06a607540803,Suburban MI Water and Sewerage,MI,municipal,40042,12050,1947,https://www.miwater89.gov
+a462a28f-6c63-4407-9ca1-0e0ba1afc6ee,Municipal AZ Metropolitan Water District,AZ,regional,37876,12225,1987,https://www.azwater90.gov
+86de58e5-12bb-449a-955c-57bc4473635e,City UT County Water District,UT,municipal,365086,119129,1975,https://www.utwater91.gov
+3e3a997f-cac2-4bb7-9905-0e4f859d9657,North KY Public Utilities Commission,KY,special_district,297507,99363,1934,https://www.kywater92.gov
+3b4bd7f4-e2c5-4e40-8412-574882daa69b,South PA Water Company,PA,municipal,1525108,529218,1998,https://www.pawater93.gov
+0735da42-45bd-41cf-918b-0c591fd99a56,Greater MD Water and Power Department,MD,regional,25605,7524,1932,https://www.mdwater94.gov
+fd143e4f-51c8-4449-abe8-2a16de1198df,West WA County Water District,WA,municipal,364050,95294,2000,https://www.wawater95.gov
+15d710c4-fa36-4c9b-9f37-4d6ce8723f79,Central PA Municipal Water Authority,PA,municipal,52151,15565,2000,https://www.pawater96.gov
+6b32a470-b8b0-4976-ac31-13564ee066e6,Greater CO Regional Water Authority,CO,regional,102460,33332,1940,https://www.cowater97.gov
+d6202581-56a5-42e7-9cab-d49bed0b9bcc,North FL Water Management District,FL,special_district,77117,23118,1981,https://www.flwater98.gov
+7c09ed83-985d-49b7-be1f-a0b6f00b21c8,City CO Metropolitan Water District,CO,municipal,884843,262469,1924,https://www.cowater99.gov
+509ac8bb-7ceb-4965-80ad-c0330ab3cb8f,East VA Water and Power Department,VA,municipal,172043,55745,1984,https://www.vawater100.gov
